@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="solve">Решить</string>
+    <string name="ans">Ответ</string>
+</resources>
